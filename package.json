@@ -1,0 +1,21 @@
+{
+  "name": "find-common-letter-txt",
+  "version": "1.0.0",
+  "description": "This function will search for the most repeated letter in the text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compute": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ivan Stasiv",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StasIvan77/findMostCommonLetter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StasIvan77/findMostCommonLetter/issues"
+  },
+  "homepage": "https://github.com/StasIvan77/findMostCommonLetter#readme"
+}
